@@ -1,5 +1,5 @@
 import streamlit as st
-st.markdown("<h1 style='text-align: center;'>Calculadora de Calculos simples</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Calculadora</h1>", unsafe_allow_html=True)
 
 def inserir_numero_raiz_quadrada():
     global num1
